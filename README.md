@@ -2,7 +2,7 @@
 
 Computer Engineering senior focused on building systems that connect **software intelligence with hardware execution**.
 
-I’m interested in how computation moves from high-level models to real systems—whether that’s neural networks being deployed on FPGA hardware or digital systems designed from first principles.
+I’m interested in how computation moves from high-level models to real systems, whether that’s neural networks being deployed on FPGA hardware or digital systems designed from first principles.
 
 ---
 
@@ -28,7 +28,7 @@ I’m interested in how computation moves from high-level models to real systems
 ---
 
 ## How I like to work
-I enjoy breaking down complex systems into smaller interacting components—whether it’s a state machine, a neural network pipeline, or a hardware architecture—and understanding how each part contributes to overall behavior.
+I enjoy breaking down complex systems into smaller interacting components, whether it’s a state machine, a neural network pipeline, or a hardware architecture, and understanding how each part contributes to overall behavior.
 
 ---
 
@@ -39,7 +39,7 @@ Verilog • FPGA toolchains (Vivado / Vitis) • FINN • PyTorch • Netron (ON
 
 ## Additional experience
 - UI/UX-focused web development for portfolio and student-facing applications
-- Building and deploying responsive web systems using Astro, Tailwind CSS, and modern frontend tooling
+- Building and deploying responsive web systems using HTML, JavaScript, CSS, and modern frontend tooling
 
 ---
 
