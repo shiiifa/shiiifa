@@ -44,5 +44,5 @@ Verilog • FPGA toolchains (Vivado / Vitis) • FINN • PyTorch • Netron (ON
 ---
 
 ## Links
-Portfolio: shifagabbey.vercel.app  
+Portfolio: https://shifagabbey.vercel.app  
 Email: shifagabbey@gmail.com
